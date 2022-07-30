@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Grocery</string>
+    <string name="home">Home</string>
+    <string name="cart">Cart</string>
+    <string name="setting">Setting</string>
+    <string name="profile">Profile</string>
+</resources>
